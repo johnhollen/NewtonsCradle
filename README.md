@@ -1,4 +1,4 @@
-Newton-s-Cradle
+NewtonsCradle
 ===============
 Course: TNM085 Modelling Project.
 A physics simulation of Newton's Cradle written in C++ and OpenGL. 
